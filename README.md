@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+KaijuGPT3-Mock-Landing-Page
+GPT3 Landing Page MockUp
+
+Landing Page Recreated from a companion video. This is my 1st project back after a short Hiatus. Showcasing that I know how to work with React components.
