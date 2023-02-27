@@ -72,6 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 KaijuGPT3-Mock-Landing-Page
-GPT3 Landing Page MockUp
+GPT3 Landing Page 
 
 Landing Page Recreated from a companion video. This is my 1st project back after a short Hiatus. Showcasing that I know how to work with React components.
